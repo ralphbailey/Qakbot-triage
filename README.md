@@ -1,5 +1,5 @@
 # Qakbot Triage
-The goal of this is to triage a malicious PCAP using Wireshark and build a report based off CISA standards. Showcasing indicators and technical details , executive summary, technical summary, findings and analysis, and remediations. 
+The goal of this is to triage a malicious PCAP using Wireshark and build a report based off CISA standards. Showcasing indicators and technical details , executive summary, technical summary, findings and analysis, and remediation's. 
 
 ## Indicators and Technical Details
 ![Table 1](https://i.imgur.com/2cDsIEr.png)
