@@ -17,7 +17,7 @@ Finally, various email traffic utilizing SMTP, IMAP and POP was observed to vary
 
 ## Findings and Analysis
 
-In our pcap we see the initial GET request of **4444444.png**, Figure 1. We can see the **User-Agent** is candyshop, Figure 2. In Figure 3 is the host of **centre-de-conduite-roannais.com** and finally in Figure 4 is an **HTTP Code** of 200, showing a successful connection. 
+To start, we see the initial GET request of **4444444.png**, Figure 1. We can see the **User-Agent** is candyshop, Figure 2. In Figure 3 is the host of **centre-de-conduite-roannais.com** and finally in Figure 4 is an **HTTP Code** of 200, showing a successful connection. 
 
 ![get2](https://i.imgur.com/ElARXrD.png)
 
