@@ -54,7 +54,7 @@ The browser of **Internet Explorer version 11** was used, Figure 23 and **Opeart
 
 ![redir ie UA](https://i.imgur.com/Ux0WES7.png)
 
-**redir_ie.html** opens a webage for **www[.]msn[.]com**. 
+**redir_ie.html** opens the homepage of **MSN**.
 
 ![redir ie html](https://i.imgur.com/Rz3iFwN.png)
 
